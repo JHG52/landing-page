@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    background: #1F2937;
+    height: 400px;
+    flex: 1;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2px;
+}
+
+.rowtwo{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.headerlogo {
+    width: 100px;
+    height: 60px;
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right:  400px;
+}
+
+.header, .text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.maintext {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: "extra-bold";
+}
