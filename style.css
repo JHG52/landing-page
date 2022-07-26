@@ -31,3 +31,11 @@
     color: #F9FAF8;
     font-weight: "extra-bold";
 }
+
+.button1 {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border:none;
+    border-radius: 5px;
+    padding:10px;
+}
